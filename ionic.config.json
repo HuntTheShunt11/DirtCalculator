@@ -1,0 +1,7 @@
+{
+  "name": "DirtCalculator",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
